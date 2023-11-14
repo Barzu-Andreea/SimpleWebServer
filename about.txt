@@ -1,0 +1,3 @@
+Simple Web server (C)
+
+Realizati un server concurent ce trimite fisiere (.txt sau .html fara scripturi) din directorul curent catre orice browser se conecteaza la el. Server-ul va trebui sa trimita antete HTTP corecte. Nu implementati un client: server-ul va trebui sa interactioneze corect cu orice browser.
